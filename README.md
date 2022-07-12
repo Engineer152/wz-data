@@ -6,4 +6,4 @@ This is to provide WZ ID data for COD: Warzone
 
 [All Gamemodes & IDs](https://engineer152.github.io/wz-data/game-modes.json)
 
-[All Weapons & IDs](https://engineer152.github.io/wz-data/gun-ids.json)
+[All Weapons & IDs](https://engineer152.github.io/wz-data/weapon-ids.json)
