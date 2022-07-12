@@ -1,5 +1,5 @@
 {"guns":{
-  // MODERN WARFARE GUNS
+  "_MODERN WARFARE GUNS_":"",
   "iw8_pi_golf21_mp":"Pistol_X16",
   "iw8_pi_papa320_mp":"Pistol_M19",
   "iw8_pi_decho_mp":"Pistol_.50 GS",
@@ -11,8 +11,8 @@
   "iw8_sm_beta_mp":"SMG_PP19 Bizon",
   "iw8_sm_augolf_mp":"SMG_AUG",
   "iw8_sm_papa90_mp":"SMG_P90",
-  "iw8_sm_mpapa7_mp":"SMG_MP7,
-  "iw8_sm_uzulu_mp":"SMG_UZI,
+  "iw8_sm_mpapa7_mp":"SMG_MP7",
+  "iw8_sm_uzulu_mp":"SMG_UZI",
   "iw8_sm_charlie9_mp":"SMG_CX-9,
   "iw8_sm_smgolf45_mp":"SMG_Striker 45",
   "iw8_sm_victor_mp":"SMG_Fennec",
@@ -27,7 +27,7 @@
   "iw8_ar_mike4_mp":"AR_M4A1",
   "iw8_ar_akilo47_mp":"AR_AK-47",
   "iw8_ar_asierra12_mp":"AR_Oden",
-  "iw8_ar_falpha_mp":"AR_FR 5.56,
+  "iw8_ar_falpha_mp":"AR_FR 5.56",
   "iw8_ar_mcharlie_mp":"AR_M13",
   "iw8_ar_kilo433_mp":"AR_Kilo 141",
   "iw8_ar_falima_mp":"AR_FAL",
@@ -54,11 +54,11 @@
   "iw8_sn_hdromeo_mp":"Sniper_HDR",
   "iw8_sn_xmike109_mp":"Sniper_Rytec AMR",
   "iw8_sh_dpapa12_mp":"Shotgun_R9-0",
-  "iw8_sh_oscar12_mp":"Shotgun_Origin 12
-  "iw8_sh_charlie725_mp":"Shotgun_725
-  "iw8_sh_romeo870_mp":"Shotgun_Model 680
-  "iw8_sh_mike26_mp":"Shotgun_VLK Rogue
-  "iw8_sh_aalpha12_mp":"Shotgun_JAK-12
+  "iw8_sh_oscar12_mp":"Shotgun_Origin 12",
+  "iw8_sh_charlie725_mp":"Shotgun_725",
+  "iw8_sh_romeo870_mp":"Shotgun_Model 680",
+  "iw8_sh_mike26_mp":"Shotgun_VLK Rogue",
+  "iw8_sh_aalpha12_mp":"Shotgun_JAK-12",
   "iw8_lm_kilo121_mp":"LMG_M91",
   "iw8_lm_pkilo_mp":"LMG_PKM",
   "iw8_lm_lima86_mp":"LMG_SA87",
@@ -68,7 +68,7 @@
   "iw8_lm_sierrax_mp":"LMG_FiNN LMG",
   "iw8_lm_dblmg_mp":"LMG_Minigun",
   "iw8_lm_slima_mp":"LMG_RAAL MG",
-  // COLD WAR GUNS
+  "_COLD WAR GUNS_":"",
   "iw8_sn_t9quickscope_mp":"Sniper_Pelington 703",
   "iw8_sn_t9standard_mp":"Sniper_LW3 - Tundra",
   "iw8_sn_t9powersemi_mp":"Sniper_M82",
