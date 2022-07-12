@@ -1,5 +1,5 @@
-{"guns":{
-  "_MODERN WARFARE GUNS_":"",
+{"All Weapons":{
+  "_MODERN WARFARE WEAPONS":{
   "iw8_pi_golf21_mp":"Pistol_X16",
   "iw8_pi_papa320_mp":"Pistol_M19",
   "iw8_pi_decho_mp":"Pistol_.50 GS",
@@ -67,8 +67,9 @@
   "iw8_lm_mkilo3_mp":"LMG_Bruen Mk9",
   "iw8_lm_sierrax_mp":"LMG_FiNN LMG",
   "iw8_lm_dblmg_mp":"LMG_Minigun",
-  "iw8_lm_slima_mp":"LMG_RAAL MG",
-  "_COLD WAR GUNS_":"",
+  "iw8_lm_slima_mp":"LMG_RAAL MG"
+  },
+  "_COLD WAR WEAPONS":{
   "iw8_sn_t9quickscope_mp":"Sniper_Pelington 703",
   "iw8_sn_t9standard_mp":"Sniper_LW3 - Tundra",
   "iw8_sn_t9powersemi_mp":"Sniper_M82",
@@ -118,4 +119,6 @@
   "iw8_me_t9etool_mp":"Special_Shovel",
   "iw8_me_t9ballisticknife_mp":"Special_Ballistic Knife",
   "iw8_me_t9bat_mp":"Special_Baseball Bat"
-}}
+  }
+}
+}
