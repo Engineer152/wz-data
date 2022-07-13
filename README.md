@@ -1,6 +1,6 @@
 # Warzone Game Data
 
-This is to provide WZ ID data for COD: Warzone
+This is to provide WZ ID Mapping data for COD: Warzone
 
 ## Available Endpoints
 
