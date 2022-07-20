@@ -7,3 +7,5 @@ This is to provide WZ ID Mapping data for COD: Warzone
 [Gamemodes & IDs](https://engineer152.github.io/wz-data/game-modes.json)
 
 [Weapons & IDs](https://engineer152.github.io/wz-data/weapon-ids.json)
+
+[Perks & IDs](https://engineer152.github.io/wz-data/perks.json)
